@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Barruti05
 - 👀 I’m interested on learning useful programming using maths and the programation knowledge
-- 🌱 I’m currently learning Ada at university
+- 🌱 I’m currently learning Ada 
 - 📫 How to reach me -> basantakruz@gmail.com
 
 <!---
